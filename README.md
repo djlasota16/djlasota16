@@ -1,11 +1,11 @@
-<h1>Hi, I'm David! <br/><a href="https://github.com/djlasota16">Programmer</a>, <a href="https://www.linkedin.com/in/david-lasota/">Cybersecurity Professional</a>
+<h1>Hi, I'm David! <br/><a href="https://github.com/djlasota16">Programmer</a>, <a href="https://www.linkedin.com/in/david-lasota/">Professional</a>
 
-<h2>👨‍💻 Business Analytics with Excel:</h2>
+<h2>👨‍💻 I'm Currently Working on:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Business Analytics with Excel</b>
+  - [BJNG Project](https://github.com/djlasota16/Blue-Jay-Natural-Gas)
+- <b>Pythin Programming</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -17,6 +17,10 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>Certificates </h2>
+
+- <b>Google Data Analytics Professional Certificate</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
